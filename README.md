@@ -8,8 +8,10 @@ If you want more beginner SQL walkthroughs, check out another walkthrough using 
 **Process**
 Our analysis will adhere to the following 3 steps:
 
-1. Gain a high level understanding of the data at hand by:
-  a. Reviewing how to interpret database schemas.
+1. Gain a high level understanding of the data at hand by: 
+
+  a. Reviewing how to interpret database schemas.  
+  
   b. Interpreting the database schema of the IPL dataset we will use for this analysis.
 
 2. Using SQL Functions and operators to look at the tables within our database.
