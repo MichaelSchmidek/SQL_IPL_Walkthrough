@@ -1,9 +1,9 @@
 # SQL_Analysis_IPL
-The below notebook is intended to be educational for those looking to learn the basics of SQLite. It involves using SQLite to perform data analysis on using a database containing information about the Indian Premier League (IPL).
+This notebook is intended to be educational for those looking to learn the basics of SQL. It involves using SQL to perform data analysis on using a database containing information about the Indian Premier League (IPL).
 
 In the process, we will review how to interpret database schemas, explore the data using functions, operators and subqueries, utilize joins, perform basic analytics, and create visualizations of relevant trends.
 
-If you want more beginner SQLite walkthroughs, check out another walkthrough using sports data here: https://www.kaggle.com/michaelschmidek/sql-data-analysis-nba
+If you want more beginner SQL walkthroughs, check out another walkthrough using sports data here: https://www.kaggle.com/michaelschmidek/sql-data-analysis-nba
 
 **Process**
 Our analysis will adhere to the following 3 steps:
