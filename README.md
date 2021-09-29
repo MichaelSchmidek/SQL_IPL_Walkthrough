@@ -1,7 +1,7 @@
 # SQL_Analysis_IPL
 This notebook is intended to be educational for those looking to learn the basics of SQL. It involves using SQL to perform data analysis on using a database containing information about the Indian Premier League (IPL).
 
-In the process, we will review how to interpret database schemas, explore the data using functions, operators and subqueries, utilize joins, perform basic analytics, and create visualizations of relevant trends.
+In the process, we will review how to interpret database schemas, explore the data using functions, operators, and subqueries, utilize joins, and perform basic analytics.
 
 If you want more beginner SQL walkthroughs, check out another walkthrough using sports data here: https://www.kaggle.com/michaelschmidek/sql-data-analysis-nba
 
